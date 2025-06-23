@@ -5,4 +5,4 @@
 
 
 **Website Public link:**
-https://portfolio-website-weld-gamma.vercel.app/
+https://golden-praline-1d117b.netlify.app/
